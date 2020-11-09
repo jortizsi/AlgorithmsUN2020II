@@ -1,1 +1,10 @@
-Aqui se ubican los Noteboks en Google Colab y en Sagemat Cocalc del Lab 5 SymPy
+En esta carpeta se encuentran:
+
+2 interactive Python Notebooks (.ipynb)
+
+* Notebook Hecho en google Colab
+* Notebook importado a cocalc y ejecuado con el kernel de SageMath
+
+1 archivo Sage Worksheet (.sagews) y 1 PDF
+* Sage Worksheet hecha en Cocalc
+    **version PDF del Worksheet. Se agrega teniendo en cuenta que GitHub no presenta graficamente este archivo, sino solo el codigo fuente.
